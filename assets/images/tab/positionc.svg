@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>定位绿色@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="96.0784314%" x2="50%" y2="2.77466388%" id="linearGradient-1">
+            <stop stop-color="#4BE29A" offset="0%"></stop>
+            <stop stop-color="#51DCD0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="定位绿色" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15.5,27.75 C12.3125,27.75 7,15.9411529 7,11.3368421 C7,6.73253135 10.8055796,3 15.5,3 C20.1944204,3 24,6.73253135 24,11.3368421 C24,15.9411529 18.6875,27.75 15.5,27.75 Z M15.5,15 C17.4329966,15 19,13.4329966 19,11.5 C19,9.56700338 17.4329966,8 15.5,8 C13.5670034,8 12,9.56700338 12,11.5 C12,13.4329966 13.5670034,15 15.5,15 Z" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="294px" height="171px" viewBox="0 0 294 171" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>500@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="96.0784314%" x2="50%" y2="2.77466388%" id="linearGradient-1">
+            <stop stop-color="#4BE29A" offset="0%"></stop>
+            <stop stop-color="#51DCD0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.31213873%" x2="50%" y2="31.4814815%" id="linearGradient-2">
+            <stop stop-color="#E9EFED" offset="0%"></stop>
+            <stop stop-color="#E8EFED" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="95%" x2="0%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#4CE19D" offset="0%"></stop>
+            <stop stop-color="#50DCCE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="定位学生卡家长端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="网络有问题" transform="translate(-39.000000, -142.000000)" fill-rule="nonzero">
+            <g id="500" transform="translate(28.000000, 142.000000)">
+                <path d="M117.250543,73.1523258 L137.626753,68.071966 C138.162633,67.9383562 138.705361,68.2644603 138.838971,68.8003398 L142.225878,82.38448 C142.359487,82.9203595 142.033383,83.4630879 141.497504,83.5966976 L121.121293,88.6770574 C120.585414,88.8106672 120.042686,88.4845631 119.909076,87.9486836 L116.522169,74.3645434 C116.38856,73.8286639 116.714664,73.2859356 117.250543,73.1523258 Z M133.257814,73.2837193 C132.989875,73.3505242 132.826823,73.6218884 132.893628,73.8898281 L133.861315,77.7710111 C133.92812,78.0389508 134.199484,78.2020029 134.467424,78.135198 C134.735364,78.0683931 134.898416,77.7970289 134.831611,77.5290892 L133.863923,73.6479063 C133.797118,73.3799665 133.525754,73.2169144 133.257814,73.2837193 Z M136.168702,72.5579536 C135.900762,72.6247585 135.73771,72.8961227 135.804515,73.1640625 L136.772202,77.0452454 C136.839007,77.3131851 137.110371,77.4762372 137.378311,77.4094323 C137.646251,77.3426274 137.809303,77.0712632 137.742498,76.8033235 L136.77481,72.9221406 C136.708006,72.6542008 136.436641,72.4911488 136.168702,72.5579536 Z M135.178123,79.6430754 C134.642243,79.7766852 134.316139,80.3194135 134.449749,80.855293 C134.583359,81.3911726 135.126087,81.7172766 135.661967,81.5836669 L139.543149,80.6159793 C140.079029,80.4823695 140.405133,79.9396412 140.271523,79.4037616 C140.137914,78.8678821 139.595185,78.541778 139.059306,78.6753878 L135.178123,79.6430754 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <ellipse id="Oval" fill="url(#linearGradient-2)" cx="158" cy="201" rx="158" ry="81"></ellipse>
+                <rect id="Rectangle" fill="#EAEFEE" transform="translate(118.457544, 82.126909) rotate(-14.000000) translate(-118.457544, -82.126909) " x="116.457544" y="79.1269092" width="4" height="6"></rect>
+                <rect id="Rectangle" fill="#EAEFEE" transform="translate(141.260798, 74.380192) rotate(-14.000000) translate(-141.260798, -74.380192) " x="140.260798" y="71.3801923" width="2" height="6"></rect>
+                <path d="M131.210508,69.5 C129.070169,65.4996745 125.666667,63.4995117 121,63.4995117" id="Path-11" stroke="url(#linearGradient-3)" stroke-linecap="square"></path>
+                <path d="M124,71.5 C122.583333,68.8333333 119.572051,67.1666667 114.966154,66.5" id="Path-11" stroke="url(#linearGradient-3)" stroke-linecap="square"></path>
+                <polygon id="Path-13" fill="#EAEFEE" points="127 88 135 86 135 89 127 89"></polygon>
+                <rect id="Rectangle" fill="#EAEFEE" transform="translate(140.705222, 95.463938) rotate(40.000000) translate(-140.705222, -95.463938) " x="135.705222" y="92.963938" width="10" height="5"></rect>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="136.5" cy="92.5" r="3.5"></circle>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" transform="translate(147.949747, 95.949747) rotate(-45.000000) translate(-147.949747, -95.949747) " x="142.949747" y="93.9497475" width="10" height="4" rx="1"></rect>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="145" cy="99" r="3"></circle>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="125" y="90" width="13" height="20" rx="1"></rect>
+                <rect id="Rectangle" fill="#EAEFEE" transform="translate(121.761316, 96.130835) rotate(132.000000) translate(-121.761316, -96.130835) " x="116.761316" y="93.6308352" width="10" height="5"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="124" y="111" width="8" height="19" rx="1"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="128" y="128" width="7" height="2" rx="1"></rect>
+                <path d="M138,128 L140,128 C140.552285,128 141,128.447715 141,129 C141,129.552285 140.552285,130 140,130 L137,130 L134,130 C133.447715,130 133,129.552285 133,129 L133,112 C133,111.447715 133.447715,111 134,111 L137,111 C137.552285,111 138,111.447715 138,112 L138,128 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M154.3425,88.28125 C155.614818,79.59375 161.500651,73.4166667 172,69.75 C187.749023,64.25 188,57.75 190,47" id="Path-14" stroke="url(#linearGradient-3)" stroke-linecap="round"></path>
+                <polygon id="Rectangle" fill="#EAEFEE" points="121 93.625 124 92 124 108.625 121 106.625"></polygon>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="125.5" cy="92.5" r="3.5"></circle>
+                <polyline id="Path-15" stroke="url(#linearGradient-3)" stroke-linecap="round" stroke-linejoin="round" points="150.680322 92.1561279 150.40625 88.46875 153.5625 87.65625"></polyline>
+                <polyline id="Path-16" stroke="url(#linearGradient-3)" stroke-linecap="round" stroke-linejoin="round" points="152.004211 93.15625 155.117103 92.125 155.117103 88.84375"></polyline>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" transform="translate(117.107476, 104.316621) rotate(105.000000) translate(-117.107476, -104.316621) " x="112.107476" y="102.316621" width="10" height="4" rx="1"></rect>
+                <circle id="Oval" fill="url(#linearGradient-1)" transform="translate(118.136906, 100.200151) rotate(150.000000) translate(-118.136906, -100.200151) " cx="118.136906" cy="100.200151" r="3"></circle>
+                <polyline id="Path-15" stroke="url(#linearGradient-3)" stroke-linecap="round" stroke-linejoin="round" transform="translate(116.470883, 111.031250) rotate(150.000000) translate(-116.470883, -111.031250) " points="114.872029 112.742312 115.67027 109.984717 118.069737 109.320188"></polyline>
+                <polyline id="Path-16" stroke="url(#linearGradient-3)" stroke-linecap="round" stroke-linejoin="round" transform="translate(114.763268, 110.562500) rotate(150.000000) translate(-114.763268, -110.562500) " points="113.008508 112.075297 116.05144 111.210283 116.518027 109.049703"></polyline>
+                <path d="M187.5,44.5625 L185.875244,46.0625" id="Path-17" stroke="url(#linearGradient-3)" stroke-linecap="round"></path>
+                <path d="M187.750488,40.9375 L186,39.875" id="Path-17" stroke="url(#linearGradient-3)" stroke-linecap="round"></path>
+                <path d="M186.750488,42.9375 L185,42.9375" id="Path-17" stroke="url(#linearGradient-3)" stroke-linecap="round"></path>
+                <path d="M194.5,44.5625 L192.875244,46.0625" id="Path-17" stroke="url(#linearGradient-3)" stroke-linecap="round" transform="translate(193.500000, 45.500000) scale(-1, 1) translate(-193.500000, -45.500000) "></path>
+                <path d="M194.750488,40.9375 L193,39.875" id="Path-17" stroke="url(#linearGradient-3)" stroke-linecap="round" transform="translate(193.500000, 40.000000) scale(-1, 1) translate(-193.500000, -40.000000) "></path>
+                <path d="M195.750488,42.9375 L194,42.9375" id="Path-17" stroke="url(#linearGradient-3)" stroke-linecap="round" transform="translate(194.500000, 43.000000) scale(-1, 1) translate(-194.500000, -43.000000) "></path>
+                <path d="M189.5,26 C182.596441,26 177,20.1797017 177,13 C177,5.82029825 182.596441,0 189.5,0 C196.403559,0 202,5.82029825 202,13 C202,20.1797017 196.403559,26 189.5,26 Z M188.141775,17.6255428 C188.141775,18.3846346 188.749633,19 189.499464,19 C190.249295,19 190.857153,18.3846346 190.857153,17.6255428 C190.857153,16.8664511 190.249295,16.2510857 189.499464,16.2510857 C188.749633,16.2510857 188.141775,16.8664511 188.141775,17.6255428 Z M189.499464,13.5 C188.192178,13.5 187.031815,14.1253454 186.285408,15.0959337 L187.000715,15.659396 C187.579824,14.9037702 188.481733,14.4184761 189.499464,14.4184761 C190.517195,14.4184761 191.418031,14.9037702 192.000357,15.659396 L192.71352,15.0959337 C191.967112,14.1253454 190.806749,13.5 189.499464,13.5 Z M189.499464,8 C186.448416,8 183.739472,9.4613107 182,11.7227596 L182.731393,12.2981642 C184.302495,10.2571062 186.74655,8.93910383 189.499464,8.93910383 C192.251305,8.93910383 194.696432,10.2571062 196.267534,12.2981642 L197,11.7216739 C195.258383,9.46022503 192.550511,8 189.499464,8 Z M189.5,11 C187.262115,11 185.27533,11.9706775 184,13.4752275 L184.73348,14 C185.839207,12.6966633 187.560573,11.8533873 189.5,11.8533873 C191.439427,11.8533873 193.159692,12.6966633 194.267621,14 L195,13.4752275 C193.72467,11.9716886 191.737885,11 189.5,11 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M190,25.75 C189.416667,31.5 189.416667,36.0416667 190,39.375" id="Path-18" stroke="url(#linearGradient-3)" stroke-linecap="round"></path>
+                <ellipse id="Oval" fill="#EAEFEE" cx="142.5" cy="23" rx="4.5" ry="5"></ellipse>
+                <ellipse id="Oval" fill="#EAEFEE" cx="231.5" cy="42.5" rx="7.5" ry="8.5"></ellipse>
+                <ellipse id="Oval" fill="#EAEFEE" cx="62.5" cy="79.5" rx="7.5" ry="8.5"></ellipse>
+                <ellipse id="Oval" fill="url(#linearGradient-1)" cx="223.5" cy="109" rx="3.5" ry="4"></ellipse>
+                <ellipse id="Oval" fill="url(#linearGradient-1)" cx="79.5" cy="27" rx="2.5" ry="3"></ellipse>
+                <circle id="Oval" stroke="url(#linearGradient-3)" stroke-linecap="square" cx="128.39311" cy="73.5" r="18.5"></circle>
+                <rect id="Rectangle" stroke="#FFFFFF" x="128.5" y="97.5" width="6" height="6" rx="1"></rect>
+                <path d="M127.59375,58.53125 C131.072917,58.3645833 133.708333,59.125 135.5,60.8125" id="Path-19" stroke="url(#linearGradient-3)" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

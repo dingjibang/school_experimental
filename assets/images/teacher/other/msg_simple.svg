@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/个人通知@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="96.0784314%" x2="50%" y2="2.77466388%" id="linearGradient-1">
+            <stop stop-color="#4BE29A" offset="0%"></stop>
+            <stop stop-color="#51DCD0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/个人通知" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M23.5638242,18 L18,18 C17.4477153,18 17,18.4477153 17,19 L17,25 L7,25 C7.25483445,18.3333333 10.3368689,15 16.2461033,15 C19.4827242,15 21.9219646,16 23.5638242,18 Z" id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+        <path d="M27.1795222,19.0160698 L23,22.3596876 L18.8204778,19.0160698 C18.8787183,19.0055129 18.9387154,19 19,19 L27,19 C27.0612846,19 27.1212817,19.0055129 27.1795222,19.0160698 Z M27.9482742,19.6816931 C27.9818223,19.7816782 28,19.8887163 28,20 L28,26 C28,26.5522847 27.5522847,27 27,27 L19,27 C18.4477153,27 18,26.5522847 18,26 L18,20 C18,19.8887163 18.0181777,19.7816782 18.0517258,19.6816931 L23,23.6403124 L27.9482742,19.6816931 Z M23.5638242,18 L18,18 C17.4477153,18 17,18.4477153 17,19 L17,25 L16.246007,25 C13.4845832,25 11.246007,22.7614237 11.246007,20 C11.246007,17.2385938 13.4845558,15.0000248 16.245962,15 C16.2460091,15 16.2460562,15 16.2461033,15 C19.4827242,15 21.9219646,16 23.5638242,18 Z M16.2222222,15 C13.4607985,15 11.2222222,12.7614237 11.2222222,10 C11.2222222,7.23857625 13.4607985,5 16.2222222,5 C18.983646,5 21.2222222,7.23857625 21.2222222,10 C21.2222222,12.7614237 18.983646,15 16.2222222,15 Z" id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+        <circle id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.3" cx="17" cy="11" r="5"></circle>
+        <path d="M7,25 L17,25 L17,27 L8,27 C7.44771525,27 7,26.5522847 7,26 L7,25 Z" id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.3"></path>
+    </g>
+</svg>

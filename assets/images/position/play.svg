@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="22px" viewBox="0 0 17 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Triangle@3x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="历史线路" transform="translate(-326.000000, -282.000000)" fill="#747474" fill-rule="nonzero">
+            <path d="M335.338444,285.839913 L344.545758,300.005012 C344.846746,300.468071 344.715362,301.087455 344.252302,301.388444 C344.090092,301.49388 343.90078,301.55 343.707314,301.55 L325.292686,301.55 C324.740401,301.55 324.292686,301.102285 324.292686,300.55 C324.292686,300.356534 324.348806,300.167222 324.454242,300.005012 L333.661556,285.839913 C333.962545,285.376854 334.581929,285.245469 335.044988,285.546458 C335.162252,285.622679 335.262223,285.72265 335.338444,285.839913 Z" id="Triangle" transform="translate(334.500000, 293.050000) rotate(-270.000000) translate(-334.500000, -293.050000) "></path>
+        </g>
+    </g>
+</svg>

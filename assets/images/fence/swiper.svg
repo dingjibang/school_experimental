@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>滑动按钮@3x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="选择围栏范围" transform="translate(-154.000000, -683.000000)">
+            <g id="滑动按钮" transform="translate(155.000000, 684.000000)">
+                <g id="Group">
+                    <circle id="Oval" stroke="#5DCBAE" fill="#FFFFFF" fill-rule="nonzero" cx="11.5" cy="11.5" r="11.5"></circle>
+                    <polygon id="Triangle" fill="#5DCBAE" fill-rule="nonzero" points="19 11.5 13 16 13 7"></polygon>
+                    <polygon id="Triangle" fill="#5DCBAE" fill-rule="nonzero" points="4 11.5 10 7 10 16"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

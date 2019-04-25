@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="123px" viewBox="0 0 98 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>设备信息icon2@3x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.345191592">
+        <g id="设备信息" transform="translate(-277.000000, -100.000000)" fill="#FFFFFF">
+            <g id="设备信息icon2" transform="translate(270.000000, 85.000000)">
+                <g transform="translate(7.500000, 15.000000)">
+                    <path d="M42.5,20.6055637 L42.5,34 C42.5,34.5522847 42.0522847,35 41.5,35 L31,35 C30.4477153,35 30,34.5522847 30,34 L30,20.6055637 C26.9850356,18.5874103 25,15.1505201 25,11.25 C25,5.03679656 30.0367966,0 36.25,0 C42.4632034,0 47.5,5.03679656 47.5,11.25 C47.5,15.1505201 45.5149644,18.5874103 42.5,20.6055637 Z M27.5,27.5 L27.5,32.5 L23.5,32.5 C22.9477153,32.5 22.5,32.9477153 22.5,33.5 L22.5,36.5 C22.5,37.0522847 22.9477153,37.5 23.5,37.5 L49,37.5 C49.5522847,37.5 50,37.0522847 50,36.5 L50,33.5 C50,32.9477153 49.5522847,32.5 49,32.5 L45,32.5 L45,27.5 L71.5,27.5 C72.0522847,27.5 72.5,27.9477153 72.5,28.5 L72.5,121.5 C72.5,122.052285 72.0522847,122.5 71.5,122.5 L1,122.5 C0.44771525,122.5 6.76353751e-17,122.052285 0,121.5 L0,28.5 C-6.76353751e-17,27.9477153 0.44771525,27.5 1,27.5 L27.5,27.5 Z M16,47.5 C15.4477153,47.5 15,47.9477153 15,48.5 L15,86.5 C15,87.0522847 15.4477153,87.5 16,87.5 L56.5,87.5 C57.0522847,87.5 57.5,87.0522847 57.5,86.5 L57.5,48.5 C57.5,47.9477153 57.0522847,47.5 56.5,47.5 L16,47.5 Z M23.5,95 C22.9477153,95 22.5,95.4477153 22.5,96 L22.5,99 C22.5,99.5522847 22.9477153,100 23.5,100 L49,100 C49.5522847,100 50,99.5522847 50,99 L50,96 C50,95.4477153 49.5522847,95 49,95 L23.5,95 Z M23.5,102.5 C22.9477153,102.5 22.5,102.947715 22.5,103.5 L22.5,106.5 C22.5,107.052285 22.9477153,107.5 23.5,107.5 L49,107.5 C49.5522847,107.5 50,107.052285 50,106.5 L50,103.5 C50,102.947715 49.5522847,102.5 49,102.5 L23.5,102.5 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+                    <path d="M31.5897287,73.6570484 C29.1324697,72.1077695 27.5,69.3695266 27.5,66.25 C27.5,61.4175084 31.4175084,57.5 36.25,57.5 C41.0824916,57.5 45,61.4175084 45,66.25 C45,69.3214426 43.4174678,72.0232651 41.023308,73.5845628 C46.1338224,75.0351892 50.0895948,79.0486682 52.890625,85.625 L20.78125,85.625 C23.0982372,79.1551582 26.7010634,75.165841 31.5897287,73.6570484 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+                    <rect id="Rectangle" fill-rule="nonzero" x="67.5" y="32.5" width="5" height="5" rx="1"></rect>
+                    <rect id="Rectangle" fill-rule="nonzero" x="75" y="32.5" width="12.5" height="5" rx="1"></rect>
+                    <rect id="Rectangle" fill-rule="nonzero" x="90" y="32.5" width="5" height="5" rx="1"></rect>
+                    <rect id="Rectangle-Copy-2" fill-rule="nonzero" x="97.5" y="32.5" width="10" height="5" rx="1"></rect>
+                    <rect id="Rectangle-Copy-3" fill-rule="nonzero" x="110" y="32.5" width="5" height="5" rx="1"></rect>
+                    <rect id="Rectangle-Copy-4" fill-rule="nonzero" x="117.5" y="32.5" width="5" height="5" rx="1"></rect>
+                    <rect id="Rectangle" fill-rule="nonzero" x="67.5" y="45" width="12.5" height="5" rx="1"></rect>
+                    <rect id="Rectangle-Copy-5" fill-rule="nonzero" x="82.5" y="45" width="20" height="5" rx="1"></rect>
+                    <rect id="Rectangle-Copy-6" fill-rule="nonzero" x="105" y="45" width="15" height="5" rx="1"></rect>
+                    <rect id="Rectangle" fill-rule="nonzero" x="67.5" y="57.5" width="25" height="5" rx="1"></rect>
+                    <rect id="Rectangle-Copy-7" fill-rule="nonzero" x="95" y="57.5" width="17.5" height="5" rx="1"></rect>
+                    <rect id="Rectangle-Copy-8" fill-rule="nonzero" x="115" y="57.5" width="22.5" height="5" rx="1"></rect>
+                    <rect id="Rectangle" fill-rule="nonzero" x="67.5" y="70" width="30" height="5" rx="1"></rect>
+                    <rect id="Rectangle-Copy-9" fill-rule="nonzero" x="100" y="70" width="30" height="5" rx="1"></rect>
+                    <rect id="Rectangle-Copy-10" fill-rule="nonzero" x="132.5" y="70" width="5" height="5" rx="1"></rect>
+                    <rect id="Rectangle-Copy-13" fill-rule="nonzero" x="132.5" y="82.5" width="5" height="5" rx="1"></rect>
+                    <rect id="Rectangle-Copy-12" fill-rule="nonzero" x="125" y="82.5" width="5" height="5" rx="1"></rect>
+                    <rect id="Rectangle" fill-rule="nonzero" x="67.5" y="82.5" width="22.5" height="5" rx="1"></rect>
+                    <rect id="Rectangle-Copy-11" fill-rule="nonzero" x="92.5" y="82.5" width="30" height="5" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

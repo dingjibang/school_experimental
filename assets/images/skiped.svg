@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="41px" viewBox="0 0 47 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group Copy@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="95%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#4CE19D" offset="0%"></stop>
+            <stop stop-color="#50DCCE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="定位学生卡家长端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="请假" transform="translate(-268.000000, -234.000000)">
+            <g id="Group-Copy" transform="translate(291.500000, 254.500000) rotate(-28.000000) translate(-291.500000, -254.500000) translate(272.000000, 243.000000)">
+                <rect id="Rectangle" stroke="url(#linearGradient-1)" stroke-width="2" fill-opacity="0.77" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" x="0" y="0" width="39" height="23" rx="1"></rect>
+                <text id="已读" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.203999966" fill="#67DBA3">
+                    <tspan x="5.29600003" y="16">已读</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

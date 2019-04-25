@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>教师@3x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="教师" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval-+-Combined-Shape-+-Rectangle-+-Rectangle-+-Path-26-+-Path-27-+-Path-28-+-Path-28-Mask" fill-rule="nonzero">
+            <path d="M9.125,32.825 C8.79166667,19.8583333 9.125,12.0416667 10.125,9.375 C11.625,5.375 15,3 20,3 C25,3 28.6437473,5.275 30.0437473,9.375 C30.9770807,12.1083333 31.2958315,19.925 31,32.825 L9.125,32.825 Z" id="v" fill="#2F2F2F"></path>
+            <ellipse id="Oval" fill="#646768" cx="20" cy="37.5" rx="14" ry="8.5"></ellipse>
+            <path d="M16,29.3515625 C16,30.4765625 17.3333333,32.3802083 20,35.0625 C22.6666667,32.421875 24,30.5182292 24,29.3515625 C21.71875,28.8203125 18,28.8203125 16,29.3515625 Z" id="Path-2" fill="#F8F8F8"></path>
+            <path d="M23,28.4878829 L23,29 C23,30.6568542 21.6568542,32 20,32 C18.3431458,32 17,30.6568542 17,29 L17,28.4878829 C13.7748316,27.3479494 11.3934024,24.4218757 11.0442601,20.8982094 C10.8755341,20.9639346 10.6919788,21 10.5,21 C9.67157288,21 9,20.3284271 9,19.5 L9,17.5 C9,16.6715729 9.67157288,16 10.5,16 C10.6753177,16 10.8436105,16.0300771 11,16.0853529 L11,16 C11,11.0294373 15.0294373,7 20,7 C24.9705627,7 29,11.0294373 29,16 L29,16.0853529 C29.1563895,16.0300771 29.3246823,16 29.5,16 C30.3284271,16 31,16.6715729 31,17.5 L31,19.5 C31,20.3284271 30.3284271,21 29.5,21 C29.3080212,21 29.1244659,20.9639346 28.9557399,20.8982094 C28.6065976,24.4218757 26.2251684,27.3479494 23,28.4878829 Z" id="Combined-Shape" fill="#FFEBEB"></path>
+            <rect id="Rectangle" fill="#585252" x="16" y="18" width="1" height="2" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#585252" x="23" y="18" width="1" height="2" rx="0.5"></rect>
+            <path d="M14.6875,16.21875 C15.8958333,15.8887746 17,16.0542166 18,16.715076" id="Path-28" stroke="#545253" stroke-linecap="round"></path>
+            <path d="M22,16.7677426 C23.0208333,16.1100809 24.125,15.9479167 25.3125,16.28125" id="Path-28" stroke="#545253" stroke-linecap="round"></path>
+            <ellipse id="Oval" fill="#FFE0E0" cx="14.5" cy="21.5" rx="1.5" ry="1"></ellipse>
+            <ellipse id="Oval" fill="#FFE0E0" cx="25.5" cy="21.5" rx="1.5" ry="1"></ellipse>
+            <path d="M12,15 C12.163486,14.836514 14.3466523,14.7422084 16.9354774,14.6969094 C17.6059115,14.6851782 19.75,14.1875 21.375,12 C21,13 21,13.5 21,14.6633597 C22.125,13.5 22.5,12.625 24,11.6248372 C23.6272208,12.625 23.6272208,13.5 23.6272208,14.6633597 C26.375,14.829958 27.8512133,14.829958 28,15 C28.2916667,15.3333333 27.9490424,23.3333333 26.9721272,39 L31,39 C31.2222222,24.5 31.0277778,15.1666667 30.4166667,11 C29.5,4.75 24,3 20,3 C16,3 10.5,5.0625 9.66650391,11.6248372 C9.11083984,15.9997287 8.88867187,25.124783 9,39 L13,39 C12,23.3333333 11.6666667,15.3333333 12,15 Z" id="Path" fill="#424242"></path>
+        </g>
+        <path d="M19.75,18 C19.75,20.0833333 19.5833333,21.4166667 19.25,22" id="Path-26" stroke="#FFC7C7" stroke-linecap="round" fill-rule="nonzero"></path>
+        <rect id="Rectangle" stroke="#5E5E5E" fill-rule="nonzero" x="14.5" y="17.5" width="4" height="4" rx="1"></rect>
+        <rect id="Rectangle-Copy" stroke="#5E5E5E" fill-rule="nonzero" x="21.5" y="17.5" width="4" height="4" rx="1"></rect>
+        <polygon id="Path-37" fill="#FFFFFF" fill-rule="nonzero" points="19 34 16 35.6875 16 29.34375"></polygon>
+        <polygon id="Path-37-Copy" fill="#FFFFFF" fill-rule="nonzero" transform="translate(22.500000, 32.515625) scale(-1, 1) translate(-22.500000, -32.515625) " points="24 34 21 35.6875 21 29.34375"></polygon>
+        <path d="M18.5,18.5 L21.5,18.5" id="Path-33" stroke="#5E5E5E" fill-rule="nonzero"></path>
+        <path d="M25.9375,18.0625 L27.5,17" id="Path-35" stroke="#5E5E5E" stroke-linecap="round" fill-rule="nonzero"></path>
+        <path d="M14,17.96875 L12.5,17" id="Path-36" stroke="#5E5E5E" stroke-linecap="round" fill-rule="nonzero"></path>
+    </g>
+</svg>

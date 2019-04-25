@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="96.0784314%" x2="50%" y2="2.77466388%" id="linearGradient-1">
+            <stop stop-color="#4BE29A" offset="0%"></stop>
+            <stop stop-color="#51DCD0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="教师端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="班级通知" transform="translate(-271.000000, -678.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M302,709 L288,709 C286.895431,709 286,709.895431 286,711 C286,712.104569 286.895431,713 288,713 L302,713 L302,727 C302,728.104569 302.895431,729 304,729 C305.104569,729 306,728.104569 306,727 L306,713 L320,713 C321.104569,713 322,712.104569 322,711 C322,709.895431 321.104569,709 320,709 L306,709 L306,695 C306,693.895431 305.104569,693 304,693 C302.895431,693 302,693.895431 302,695 L302,709 Z M304,744 C285.774603,744 271,729.225397 271,711 C271,692.774603 285.774603,678 304,678 C322.225397,678 337,692.774603 337,711 C337,729.225397 322.225397,744 304,744 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

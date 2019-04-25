@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/课程表@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="96.0784314%" x2="50%" y2="2.77466388%" id="linearGradient-1">
+            <stop stop-color="#4BE29A" offset="0%"></stop>
+            <stop stop-color="#51DCD0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/课程表" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14,8 L14,27 L9,27 C8.44771525,27 8,26.5522847 8,26 L8,9 C8,8.44771525 8.44771525,8 9,8 L14,8 Z M15,8 L27,8 C27.5522847,8 28,8.44771525 28,9 L28,26 C28,26.5522847 27.5522847,27 27,27 L15,27 L15,8 Z" id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.3"></path>
+        <path d="M13,16 L26,16 L26,20 L13,20 L13,16 Z M12,16 L12,20 L6,20 L6,16 L12,16 Z M13,25 L13,21 L26,21 L26,24 C26,24.5522847 25.5522847,25 25,25 L13,25 Z M12,25 L7,25 C6.44771525,25 6,24.5522847 6,24 L6,21 L12,21 L12,25 Z M13,11 L26,11 L26,15 L13,15 L13,11 Z M12,11 L12,15 L6,15 L6,11 L12,11 Z M13,6 L25,6 C25.5522847,6 26,6.44771525 26,7 L26,10 L13,10 L13,6 Z M12,6 L12,10 L6,10 L6,7 C6,6.44771525 6.44771525,6 7,6 L12,6 Z" id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>
